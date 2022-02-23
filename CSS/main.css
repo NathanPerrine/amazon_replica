@@ -61,6 +61,18 @@ body{
     color: gray;
 }
 
+#pass a{
+    display: flex;
+    align-items: center;
+
+    text-decoration: none;
+}
+
+#passtext{
+    display: flex;
+    justify-content: space-between;
+}
+
 #submit{
     background-color: #FF9900;
     border-radius: 4px;
