@@ -99,8 +99,20 @@ body{
 }
 
 .line{
-    /* border: 5px black solid; */
-    height: 3px;
+    margin: 2px;
+    height: 2px;
     width: 30%;
     background-color: gray;
+}
+
+#createbutton{
+    width: 100%;
+}
+
+#newaccount{
+    border: 1px gray solid;
+    background: lightgray;
+    border-radius: 3px;
+    width: 100%;
+    
 }
